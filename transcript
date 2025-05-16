@@ -1,0 +1,115 @@
+# vsim alu 
+# Start time: 18:35:13 on Apr 27,2025
+# Loading work.alu
+# Loading work.add_sub
+# Loading work.XOR
+# Loading work.NOT
+# Loading work.AND
+# Loading work.NOR
+# Loading work.FULL_ADDER2
+# Loading work.FULL_ADDER
+# Loading work.OR
+# Loading work.FULL_ADDER3
+# Loading work.mul
+# Loading work.rem
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'u_mul'.  Expected 11, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Error: (vsim-3063) Port 'A' not found in the connected module (1st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Error: (vsim-3063) Port 'B' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Error: (vsim-3063) Port 'R' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'A2'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'A1'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'A0'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'B2'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'B1'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'B0'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P4'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P3'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P2'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P1'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P0'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'u_rem'.  Expected 13, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Error: (vsim-3063) Port 'A' not found in the connected module (1st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Error: (vsim-3063) Port 'B' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Error: (vsim-3063) Port 'R' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'A2'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'A1'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'A0'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'B2'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'B1'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'B0'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'sf'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R3'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R2'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R1'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R0'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'DZf'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'zf'.
+# Error loading design
+# End time: 18:35:13 on Apr 27,2025, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 26
+vsim work.alu
+# vsim work.alu 
+# Start time: 18:35:19 on Apr 27,2025
+# Loading work.alu
+# Loading work.add_sub
+# Loading work.XOR
+# Loading work.NOT
+# Loading work.AND
+# Loading work.NOR
+# Loading work.FULL_ADDER2
+# Loading work.FULL_ADDER
+# Loading work.OR
+# Loading work.FULL_ADDER3
+# Loading work.mul
+# Loading work.rem
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'u_mul'.  Expected 11, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Error: (vsim-3063) Port 'A' not found in the connected module (1st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Error: (vsim-3063) Port 'B' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Error: (vsim-3063) Port 'R' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_mul File: alu.v Line: 22
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'A2'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'A1'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'A0'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'B2'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'B1'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'B0'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P4'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P3'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P2'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P1'.
+# ** Warning: (vsim-3722) alu.v(22): [TFMPC] - Missing connection for port 'P0'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'u_rem'.  Expected 13, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Error: (vsim-3063) Port 'A' not found in the connected module (1st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Error: (vsim-3063) Port 'B' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Error: (vsim-3063) Port 'R' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /alu/u_rem File: alu.v Line: 29
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'A2'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'A1'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'A0'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'B2'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'B1'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'B0'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'sf'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R3'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R2'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R1'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'R0'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'DZf'.
+# ** Warning: (vsim-3722) alu.v(29): [TFMPC] - Missing connection for port 'zf'.
+# Error loading design
+# End time: 18:35:19 on Apr 27,2025, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 26

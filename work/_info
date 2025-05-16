@@ -1,0 +1,394 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/basse/Desktop/waleyversion/Software
+vadd_sub
+!s110 1745765483
+!i10b 1
+!s100 i4cL4dEbOkKiRDmYlFFL>2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0<NY2VEBn_HOO;4A@_aXN3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1745759762
+8add_sub.v
+Fadd_sub.v
+!i122 6
+L0 1 52
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1745765483.000000
+!s107 add_sub.v|
+!s90 add_sub.v|
+!i113 1
+Z4 tCvgOpt 0
+vadd_sub_tb
+!s110 1745766908
+!i10b 1
+!s100 ClXlJ`zR4mZ49zLg^TLeV0
+R1
+IkNE]Z7T`_kVOl=cHfJ1`>2
+R2
+R0
+w1745766884
+Z5 8add_sub_tb.v
+Z6 Fadd_sub_tb.v
+!i122 16
+Z7 L0 1 103
+R3
+r1
+!s85 0
+31
+!s108 1745766908.000000
+Z8 !s107 add_sub_tb.v|
+Z9 !s90 add_sub_tb.v|
+!i113 1
+R4
+valu
+!s110 1745768058
+!i10b 1
+!s100 Fi7_n^7el8bhQ^n<<55fR1
+R1
+IzM8?c;R]=]BlcnL=`I6h?1
+R2
+R0
+w1745768048
+8alu.v
+Falu.v
+!i122 19
+L0 1 45
+R3
+r1
+!s85 0
+31
+!s108 1745768058.000000
+!s107 alu.v|
+!s90 alu.v|
+!i113 1
+R4
+vAND
+Z10 !s110 1745765228
+!i10b 1
+!s100 cjilj_dPkK6QI2BVUk;fn3
+R1
+IVJ]z9E;MUeFaJf5D>39]i2
+R2
+R0
+w1745701852
+8AND.v
+FAND.v
+!i122 0
+Z11 L0 1 7
+R3
+r1
+!s85 0
+31
+Z12 !s108 1745765227.000000
+Z13 !s107 XOR.v|NOR.v|OR.v|NAND.v|AND.v|NOT.v|
+Z14 !s90 NOT.v|AND.v|NAND.v|OR.v|NOR.v|XOR.v|
+!i113 1
+R4
+n@a@n@d
+vFULL_ADDER
+Z15 !s110 1745765253
+!i10b 1
+!s100 `:4=o>5C]S>9>C9fQWOnM3
+R1
+IZSULodc@F[N^]i7_eQCFd0
+R2
+R0
+w1745764982
+8FULL_ADDER.v
+FFULL_ADDER.v
+!i122 1
+L0 1 15
+R3
+r1
+!s85 0
+31
+Z16 !s108 1745765253.000000
+Z17 !s107 FULLADDER3.v|FULL_ADDER2.v|FULL_ADDER.v|
+Z18 !s90 FULL_ADDER.v|FULL_ADDER2.v|FULLADDER3.v|
+!i113 1
+R4
+n@f@u@l@l_@a@d@d@e@r
+vFULL_ADDER2
+R15
+!i10b 1
+!s100 iTgkOKbolFEn@4z0gb5^R0
+R1
+I3k0>fF]jZ0^NGY31AO_UH1
+R2
+R0
+w1745764092
+8FULL_ADDER2.v
+FFULL_ADDER2.v
+!i122 1
+L0 1 27
+R3
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R4
+n@f@u@l@l_@a@d@d@e@r2
+vFULL_ADDER3
+!s110 1745765336
+!i10b 1
+!s100 ;IIF9K9aFPelCYHBAPS_I2
+R1
+I0Ff:nlG[NF<LU9`oYe7@i2
+R2
+R0
+w1745764080
+8FULL_ADDER3.v
+FFULL_ADDER3.v
+!i122 2
+L0 1 36
+R3
+r1
+!s85 0
+31
+!s108 1745765336.000000
+!s107 FULL_ADDER3.v|
+!s90 FULL_ADDER3.v|
+!i113 1
+R4
+n@f@u@l@l_@a@d@d@e@r3
+vmul
+!s110 1745768101
+!i10b 1
+!s100 9fLgBDN5DK]?DeSa8E>IS1
+R1
+ISffJ^KRU2MW69@_>^LOfE2
+R2
+R0
+w1745754925
+8mul.v
+Fmul.v
+!i122 21
+L0 1 18
+R3
+r1
+!s85 0
+31
+!s108 1745768101.000000
+!s107 mul.v|
+!s90 mul.v|
+!i113 1
+R4
+vmul_tb
+!s110 1745767073
+!i10b 1
+!s100 JVCbjjnE1CmkL51U<^9n13
+R1
+IIEmFIF:b45UeiMcb8H:`P0
+R2
+R0
+w1745761258
+8mul_tb.v
+Fmul_tb.v
+!i122 17
+L0 2 63
+R3
+r1
+!s85 0
+31
+!s108 1745767073.000000
+!s107 mul_tb.v|
+!s90 mul_tb.v|
+!i113 1
+R4
+vNAND
+R10
+!i10b 1
+!s100 D]:7aL3e1J8U;IIB2Od`d0
+R1
+I^<ThbDaANCb]O2J3a_hP11
+R2
+R0
+w1745764465
+8NAND.v
+FNAND.v
+!i122 0
+L0 1 3
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R4
+n@n@a@n@d
+vNOR
+R10
+!i10b 1
+!s100 4O^^^lm<DN@12TARn?GZM0
+R1
+I5i>]IBjV_CHNi83nJQj4X1
+R2
+R0
+w1745764174
+8NOR.v
+FNOR.v
+!i122 0
+R11
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R4
+n@n@o@r
+vNOT
+!s110 1745765477
+!i10b 1
+!s100 V:g^;R8ciCXbWRfHkFVNe3
+R1
+IW0S:VCnQonmY?;;CY=ET01
+R2
+R0
+w1745765467
+8NOT.v
+FNOT.v
+!i122 5
+L0 1 6
+R3
+r1
+!s85 0
+31
+!s108 1745765477.000000
+!s107 NOT.v|
+!s90 NOT.v|
+!i113 1
+R4
+n@n@o@t
+vOR
+R10
+!i10b 1
+!s100 @T?@j@jMg_d?zUC;ieY4k3
+R1
+I6CjBEGB6fP_?N`[HGcL[D2
+R2
+R0
+w1745764176
+8OR.v
+FOR.v
+!i122 0
+R11
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R4
+n@o@r
+vrem
+!s110 1745768097
+!i10b 1
+!s100 `Ec7TNP]4@<HnIF_=P^0U1
+R1
+I5oKDgdNkORQIzaJS9GPf<0
+R2
+R0
+w1745764420
+8rem.v
+Frem.v
+!i122 20
+L0 12 16
+R3
+r1
+!s85 0
+31
+!s108 1745768097.000000
+!s107 rem.v|
+!s90 rem.v|
+!i113 1
+R4
+vtb_add_sub_case_version
+!s110 1745766713
+!i10b 1
+!s100 <]R>GG;JR>TL<b`TK8Q1o3
+R1
+ITgnicHF3biF32UAPZFdLC3
+R2
+R0
+w1745766704
+R5
+R6
+!i122 15
+R7
+R3
+r1
+!s85 0
+31
+!s108 1745766713.000000
+R8
+R9
+!i113 1
+R4
+vtb_add_sub_file_output
+!s110 1745765687
+!i10b 1
+!s100 chi3=Cij`H>FZAK@TXN6F1
+R1
+I^ZD6dIARNMbC^ff6L5JLm2
+R2
+R0
+w1745764792
+R5
+R6
+!i122 7
+L0 1 61
+R3
+r1
+!s85 0
+31
+!s108 1745765687.000000
+R8
+R9
+!i113 1
+R4
+vXOR
+R10
+!i10b 1
+!s100 fJ]NWV9EaMN<_Oa`k:9aN3
+R1
+IP4>mHZHU]6ZECIodlaQ[U1
+R2
+R0
+w1745701880
+8XOR.v
+FXOR.v
+!i122 0
+R11
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R4
+n@x@o@r
